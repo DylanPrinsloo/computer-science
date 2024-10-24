@@ -9,8 +9,6 @@ _Some Content from the degree are not code related, or are not needed or not fin
 
 ## **Folder Structure** <br><br>
 
-Here’s your folder and file structure formatted in a dropdown style using markdown:
-
 <details>
   <summary>📂 README.md</summary>
 </details>
@@ -83,7 +81,6 @@ Here’s your folder and file structure formatted in a dropdown style using mark
   <summary>📂 End</summary>
 </details>
 
-This structure keeps your content organized and easy to navigate with collapsible sections.
 
 
 

@@ -1,9 +1,9 @@
-# University-Code
+# University-Code 2023-2026
 
-This Repository was put together for the common goal of creating a collective code repository. The code below was required for completing a 3-year 
-BSc in Computer Science at my University . The `folder` is still being updated every week. Content will still be missing and hence I have incorparated external work to keep content as updated as possible. Every subject will have a `Lessons` folder containing all the code required for learining and a `Problems` folder for the Subjects has a small projects or questions for that class.
+This Repository was put together for the common goal of creating a collective repository with all my notes, work and lectures. The content below was required for completing a 3-year 
+BSc in Computer Science at my University, Some Content will still be missing and hence I have incorparated external work to keep content as updated as possible. Every subject will have a `Lessons` folder containing all the code required for learining and a `Problems` folder for the Subjects has a small projects or questions for that class.
 
-_Some Content from the degree are not code related, or are not needed or not finished_ 
+_Some Content that will not appear here due to that it is not code related, or is not needed or not finished_ 
 
 [All University-Math will be here](https://github.com/DylanPrinsloo/University-Math.git)
 

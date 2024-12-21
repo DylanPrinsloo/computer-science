@@ -26,6 +26,7 @@ _Some Content that will not appear here due to that it is not code related, or i
     <ul>
       <li>📄 Data Structures and Algorithms</li>
       <li>📄 Web development</li>
+      <li>📄 Dynamic Programming<li>
     </ul>
   </ul>
 </details>

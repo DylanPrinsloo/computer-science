@@ -1,85 +1,67 @@
 # University-Code 2023-2026
 
-This Repository was put together for the common goal of creating a collective repository with all my notes, work and lectures. The content below was required for completing a 3-year 
-BSc in Computer Science at my University, Some Content will still be missing and hence I have incorparated external work to keep content as updated as possible. Every subject will have a `Lessons` folder containing all the code required for learining and a `Problems` folder for the Subjects has a small projects or questions for that class.
-
-_Some Content that will not appear here due to that it is not code related, or is not needed or not finished_ 
-
-[All University-Math will be here](https://github.com/DylanPrinsloo/University-Math.git)
+[All Mathematics will be seperated here](https://github.com/DylanPrinsloo/University-Math.git)
 
 ## **Folder Structure** <br><br>
-
-<details>
-  <summary>📂 README.md</summary>
-</details>
 
 <details>
   <summary>📂 Year 1</summary>
   <ul>
     <li>📂 Sem 1</li>
     <ul>
-      <li>📄 Introduction to programming (C)</li>
-      <li>📄 Computer Science Introduction (Python)</li>
-      <li>📄 Object-oriented concepts (covered in folders prior)</li>
+      <li>📄 CS1001: Introduction to Programming I</li>
+      <li>📄 CS1002: Introduction to Programming II</li>
+      <li>📄 CS1003: Computational Mathematics</li>
+      <li>📄 CS1004: Discrete Mathematics</li>
     </ul>
     <li>📂 Sem 2</li>
     <ul>
-      <li>📄 Data Structures and Algorithms</li>
-      <li>📄 Web development</li>
-      <li>📄 Dynamic Programming<li>
+      <li>📄 CS1011: Object-Oriented Programming</li>
+      <li>📄 CS1012: Software Design and Development</li>
+      <li>📄 CS1013: Databases, Networks, and the Web</li>
+      <li>📄 CS1014: Agile Software Projects</li>
     </ul>
   </ul>
 </details>
 
 <details>
-  <summary>📂 Year 2 (Still busy)</summary>
+  <summary>📂 Year 2 (Electives selected)</summary>
   <ul>
     <li>📂 Sem 3</li>
     <ul>
-      <li>📄 Advanced Algorithms (Python)</li>
-      <li>📄 Data Science (GO) / Scientific (Python)</li>
-      <li>📄 Database Management Systems (SQL)</li>
-      <li>📄 Operating Systems</li>
+      <li>📄 CS2001: Data Science</li>
+      <li>📄 CS2002: Advanced Machine Learning</li>
+      <li>📄 CS2003: Neural Networks and Deep Learning</li>
+      <li>📄 CS2004: Artificial Intelligence Fundamentals</li>
     </ul>
     <li>📂 Sem 4</li>
     <ul>
-      <li>📄 Mobile Application Development and Big Data</li>
-      <li>📄 Networking and Distributed Systems</li>
-      <li>📄 Human-Computer Interaction</li>
+      <li>📄 CS2005: Natural Language Processing</li>
+      <li>📄 CS2006: Computer Vision</li>
+      <li>📄 CS2007: Data Mining</li>
+      <li>📄 CS2008: Reinforcement Learning</li>
     </ul>
   </ul>
 </details>
 
 <details>
-  <summary>📂 Year 3 (Still awaiting)</summary>
+  <summary>📂 Year 3 (Specialization)</summary>
   <ul>
     <li>📂 Sem 5</li>
     <ul>
-      <li>📄 Advanced Algorithms (Python)</li>
-      <li>📄 Artificial Intelligence</li>
-      <li>📄 Data Science</li>
+      <li>📄 CS3001: Advanced Machine Learning Techniques</li>
+      <li>📄 CS3002: Natural Language Generation</li>
+      <li>📄 CS3003: AI for Healthcare</li>
+      <li>📄 CS3004: AI and Autonomous Systems</li>
     </ul>
     <li>📂 Sem 6</li>
     <ul>
-      <li>📄 Cloud Computing</li>
-      <li>📄 Human-Computer Interaction or Robotics</li>
-      <li>📄 HASS or STS</li>
+      <li>📄 CS3011: Cloud AI</li>
+      <li>📄 CS3012: Advanced Robotics and AI</li>
+      <li>📄 CS3013: AI for Business Intelligence</li>
+      <li>📄 CS3014: AI in Data Analytics</li>
     </ul>
   </ul>
-</details>
-
-<details>
-  <summary>📂 added content</summary>
-  <ul>
-    <li>📄 Julia</li>
-    <li>📄 Scheme/Lisp</li>
-    <li>📄 Haskell</li>
-    <li>📄 ROS (Robot Operating System)</li>
-  </ul>
-</details>
-
-<details>
-  <summary>📂 End</summary>
 </details>
 
 

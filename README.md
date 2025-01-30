@@ -12,13 +12,13 @@
       <li>📄 CS1001: Introduction to Programming I</li>
       <li>📄 CS1002: Introduction to Programming II</li>
       <li>📄 CS1003: Computational Mathematics</li>
-      <li>📄 CS1004: Discrete Mathematics</li>
+      <li>📄 CS1011: Object-Oriented Programming</li>
     </ul>
     <li>📂 Sem 2</li>
     <ul>
-      <li>📄 CS1011: Object-Oriented Programming</li>
+      <li>📄 CS1004: Discrete Mathematics</li>
       <li>📄 CS1012: Software Design and Development</li>
-      <li>📄 CS1013: Databases, Networks, and the Web</li>
+      <li>📄 CS1013: Dynamic Programming</li>
       <li>📄 CS1014: Agile Software Projects</li>
     </ul>
   </ul>

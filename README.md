@@ -1,6 +1,6 @@
-# University-Code 2023-2026
+# Computer Science 2023-2026
 
-[All Mathematics will be seperated here](https://github.com/DylanPrinsloo/University-Math.git)
+[All Mathematics will be seperated here](https://github.com/DylanPrinsloo/mathematics.git)
 
 ## **Folder Structure** <br><br>
 
